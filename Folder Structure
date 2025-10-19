@@ -1,0 +1,13 @@
+redux-cart/
+├── src/
+│   ├── app/
+│   │   └── store.js
+│   ├── features/
+│   │   ├── cart/
+│   │   │   ├── cartSlice.js
+│   │   │   └── Cart.jsx
+│   │   └── products/
+│   │       └── ProductList.jsx
+│   ├── App.js
+│   └── index.js
+└── package.json
